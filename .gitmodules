@@ -1,0 +1,3 @@
+[submodule "CRUDBlazorApp"]
+	path = CRUDBlazorApp
+	url = git@github.com:Dumspy/CRUDBlazorApp.git
