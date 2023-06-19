@@ -1,3 +1,21 @@
 [submodule "CRUDBlazorApp"]
 	path = CRUDBlazorApp
 	url = git@github.com:Dumspy/CRUDBlazorApp.git
+[submodule "GF2-Programmering"]
+	path = GF2-Programmering
+	url = https://github.com/Dumspy/GF2-Programmering
+[submodule "H1GrundlaeggendeProgrammering"]
+	path = H1GrundlaeggendeProgrammering
+	url = git@github.com:Dumspy/H1GrundlaeggendeProgrammering.git
+[submodule "H1Computerteknologi"]
+	path = H1Computerteknologi
+	url = git@github.com:Dumspy/H1Computerteknologi.git
+[submodule "H1OOPFinal"]
+	path = H1OOPFinal
+	url = git@github.com:Dumspy/H1OOPFinal.git
+[submodule "H1OOPEntityframework"]
+	path = H1OOPEntityframework
+	url = git@github.com:Dumspy/H1OOPEntityframework.git
+[submodule "H1ClientsideProgrammering"]
+	path = H1ClientsideProgrammering
+	url = git@github.com:Dumspy/H1ClientsideProgrammering.git
